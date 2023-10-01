@@ -197,12 +197,9 @@ body{
 #section_party_3 .subtext_style{
     opacity: 0.5;
 }
-
-
 .subscribe {
     padding: 20px;
 }
-
 .subscribe .text_input {
     align-items: center;
     background-color: #151515;
